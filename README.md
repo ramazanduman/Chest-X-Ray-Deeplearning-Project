@@ -4,4 +4,4 @@ Hugging Face "AiresPucrs/chest-xray" veri seti üzerinde gerçekleştirilen dene
 Ayrıca, modellerin karar mekanizmaları Grad-CAM tekniği ile görselleştirilerek, akciğerdeki patolojik infiltrasyonlara doğru bir şekilde açıklanabilirliği gösterilmiştir.
 
 Çalışma Google Colab üzerinde çalıştırılmıştır. Ayrıca drive üzerinde model eğitimleri kaydedilmiştir. Her model için farklı veri setleri üzerinde doğrulama çalışması yapılmış ve model başarıları gösterilmiştir. 
-Eğitilmşiş modellere https://www.dropbox.com/scl/fo/0wiu5w9jk9qkjvid5ju7l/AHCH02-w6buIlkU-UCv2-YY?rlkey=m6r61mjw9fdeuadeyr6ju8oxa&st=69adf26v&dl=0 adresindne eişilebilir. Colab da üzerinde üuygun dosya yapısı uyarlanarak doğrulama testleri yapılabilir.
+Eğitilmşiş modellere https://www.dropbox.com/scl/fo/0wiu5w9jk9qkjvid5ju7l/AHCH02-w6buIlkU-UCv2-YY?rlkey=m6r61mjw9fdeuadeyr6ju8oxa&st=69adf26v&dl=0 adresindne eişilebilir. Colab da üzerinde uygun dosya yapısı uyarlanarak doğrulama testleri yapılabilir.
